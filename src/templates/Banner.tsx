@@ -8,7 +8,7 @@ const Banner = () => (
   <Section>
     <CTABanner
       title="Entre em contato conosco para fazer a sua empresa aparecer nos principais motores de buscas da internet e atrair mais clientes. "
-      // subtitle="Start your Free Trial."
+      subtitle="Inicie o seu teste gratuito."
       button={
         <Link href="https://creativedesignsguru.com/category/nextjs/">
           <a>
