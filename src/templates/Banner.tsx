@@ -10,7 +10,7 @@ const Banner = () => (
       title="Entre em contato conosco para fazer a sua empresa aparecer nos principais motores de buscas da internet e atrair mais clientes. "
       subtitle="Inicie o seu teste gratuito."
       button={
-        <Link href="https://creativedesignsguru.com/category/nextjs/">
+        <Link href="https://hublocal.com.br/como-funciona/">
           <a>
             <Button>Pronto para começar?</Button>
           </a>
