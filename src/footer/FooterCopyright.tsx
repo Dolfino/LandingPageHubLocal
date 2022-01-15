@@ -6,7 +6,7 @@ const FooterCopyright = () => (
     <span role="img" aria-label="Love">
       ♥
     </span>{' '}
-    by <a href="https://creativedesignsguru.com">Creative Designs by Dolfino</a>
+    by <a href="https://hublocal.com.br/">Creative Designs by Dolfino</a>
     {/*
      * PLEASE READ THIS SECTION
      * We'll really appreciate if you could have a link to our website
